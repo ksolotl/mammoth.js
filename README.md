@@ -1,4 +1,5 @@
 # Mammoth .docx to HTML converter
+Fix compiling for Angular 14
 
 Mammoth is designed to convert .docx documents,
 such as those created by Microsoft Word, Google Docs and LibreOffice,
@@ -51,7 +52,7 @@ The easiest way to try out mammoth is to use the web demo:
 
 ## Installation
 
-    npm install mammoth
+    npm install ksolotl/mammoth
 
 ## Other supported platforms
 
